@@ -6,4 +6,7 @@
 - İletişim - <josephemir@yaani.com>
 
 # Kütüphanem'i İndir!
-<https://drive.google.com/file/d/17DSx-BweeucTC-YU38n2jd9VaI6UbIlt/view>
+[İndirmek için buraya tıkla!][1]
+
+
+  [1]: https://drive.google.com/file/d/17DSx-BweeucTC-YU38n2jd9VaI6UbIlt/view
