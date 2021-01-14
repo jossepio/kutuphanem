@@ -9,4 +9,4 @@
 [İndirmek için buraya tıkla!][1]
 
 
-  [1]: https://drive.google.com/file/d/17DSx-BweeucTC-YU38n2jd9VaI6UbIlt/view
+  [1]: https://drive.google.com/drive/folders/19gGcDJTs77eAFdod2e89szpTPEGSfeKS?usp=sharing
